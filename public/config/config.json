@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x05Fe5Ce7D9ebB9E3fB41AeEc1B97cECB05e8eCDF",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x05fe5ce7d9ebb9e3fb41aeec1b97cecb05e8ecdf",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "NFT_NAME": "CYBER CAT NFTS",
+  "SYMBOL": "CCN",
+  "MAX_SUPPLY": 1001,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cyber-cat-nfts",
   "SHOW_BACKGROUND": true
 }
